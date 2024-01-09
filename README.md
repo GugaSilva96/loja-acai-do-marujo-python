@@ -49,6 +49,7 @@ Adição de funcionalidade para visualizar detalhes específicos de uma compra, 
 Tratamento de Exceções:
 
 O código inclui tratamento de exceções para erros no banco de dados, garantindo uma resposta adequada em caso de problemas durante as operações.
-Contribuição
+
+# Contribuição:
 ## Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, correções de bugs ou novas funcionalidades.
 
