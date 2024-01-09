@@ -6,7 +6,8 @@ Este repositório contém uma aplicação simples de loja implementada em Python
 
 loja.py: Arquivo principal contendo as classes principais da aplicação.
 loja.db: Banco de dados SQLite para armazenar dados da aplicação.
-## Funcionalidades Principais
+
+# Funcionalidades Principais
 ## Classes de Entidades
 ## Produto:
 
