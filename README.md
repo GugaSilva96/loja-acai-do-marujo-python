@@ -37,18 +37,17 @@ Execute o arquivo loja.py.
 Insira o usuário e senha quando solicitado (usuário e senha hardcoded para fins de exemplo).
 Utilize a interface gráfica para cadastrar produtos, clientes, realizar compras e visualizar informações.
 
-## Aspectos a Considerar
-Autenticação de Usuário:
-
+# Aspectos a Considerar
+## Autenticação de Usuário:
 A lógica de autenticação é básica (usuário e senha hardcoded). Em uma aplicação real, recomenda-se implementar um sistema de autenticação mais robusto.
-Segurança:
 
-Certifique-se de implementar medidas adicionais de segurança, especialmente em ambientes de produção.
-Visualização Detalhada de Compras:
+## Segurança:
+Ao implementar o código, certifique-se também de implementar medidas adicionais de segurança, especialmente em ambientes de produção.
 
+## Visualização Detalhada de Compras:
 Adição de funcionalidade para visualizar detalhes específicos de uma compra, como produtos associados, pode ser uma melhoria futura.
-Tratamento de Exceções:
 
+## Tratamento de Exceções:
 O código inclui tratamento de exceções para erros no banco de dados, garantindo uma resposta adequada em caso de problemas durante as operações.
 
 # Contribuição:
